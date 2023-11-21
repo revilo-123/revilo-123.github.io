@@ -79,7 +79,7 @@ aside {
     height: auto;
 }
 
-aside img {
+.img {
     height: auto;
     width: 75%;
     margin: 2.5%;
@@ -125,7 +125,7 @@ footer {
     border-top: 2px solid black;
 }
 
-footer img {
+.img2 {
     height: 100px;
     width: 100px;
     border-radius: 50%;
