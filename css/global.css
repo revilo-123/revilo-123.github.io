@@ -131,6 +131,10 @@ footer {
     border-radius: 50%;
 }
 
+ul{
+    color: white;
+}
+
 footer p {
     
     font-size: 15px;
